@@ -1,0 +1,14 @@
+{
+  "name": "Japon Kale",
+  "short_name": "Japon Kale",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#185c38",
+  "theme_color": "#185c38",
+  "icons": [
+    { "src": "g2611281742.icon.png", "sizes": "128x128", "type": "image/png" },
+    { "src": "g2611281742.apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
